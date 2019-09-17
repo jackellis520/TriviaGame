@@ -202,4 +202,5 @@ var questions = [
     timer = 30;
     startGame();
     timerHolder();
+    document.location.href;
   }
